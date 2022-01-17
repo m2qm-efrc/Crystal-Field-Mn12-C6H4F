@@ -12,4 +12,4 @@ obj/Plot_results.o: Plot_results.f90
 	$(FC) $(FFLAGS) -c Plot_results.f90       -o obj/Plot_results.o      -module obj
 
 obj/CrystalField.o: CrystalField.f90
-	$(FC) $(FFLAGS) -c CrystalField.f90      -o obj/CrystalField.o       -module obj
+	$(FC) $(FFLAGS) -c CrystalField.f90       -o obj/CrystalField.o      -module obj
