@@ -9,6 +9,8 @@
 
 > module load <gnu, pgi, or intel compilers>
 
+Correct *makefile* for used compiler
+
 > make
 
 # Run 
