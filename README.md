@@ -7,7 +7,7 @@
 
 # Compilation 
 
-> module load intel
+> module load <gnu, pgi, or intel compilers>
 
 > make
 
