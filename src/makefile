@@ -14,7 +14,7 @@ clean:
 
 Plot_results.o:       Mn12_crystall.o
 E_field.o:            Mn12_crystall.o
-CrystallField.o:      E_field.o Mn12_crystall.o Plot_results.o
+CrystalField.o:       E_field.o Mn12_crystal.o Plot_results.o
 
 
 
