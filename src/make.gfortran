@@ -1,0 +1,17 @@
+FC = gfortran
+FFLAGS = -ffree-line-length-512
+
+
+
+obj/Mn12_crystal.o: Mn12_crystal.f90
+	@mkdir -p obj
+	$(FC) $(FFLAGS) -c Mn12_crystal.f90       -o obj/Mn12_crystal.o      -J./obj
+
+obj/E_field.o: E_field.f90
+	$(FC) $(FFLAGS) -c E_field.f90            -o obj/E_field.o           -J./obj
+
+obj/Plot_results.o: Plot_results.f90
+	$(FC) $(FFLAGS) -c Plot_results.f90       -o obj/Plot_results.o      -J./obj
+
+obj/CrystalField.o: CrystalField.f90
+	$(FC) $(FFLAGS) -c CrystalField.f90      -o obj/CrystalField.o       -J./obj
