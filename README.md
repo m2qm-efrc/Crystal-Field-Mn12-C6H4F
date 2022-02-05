@@ -21,3 +21,5 @@ Correct [*makefile*](src/makefile) for used compiler and compile the program
 
 > CrystalField
 
+The data for plotting are written to *Efield.dat*
+
