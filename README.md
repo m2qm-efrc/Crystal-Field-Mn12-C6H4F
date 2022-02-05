@@ -11,7 +11,7 @@ Program [CrystalField.f90](src/CrystalField.f90) to calculate electric field in 
 Load appropriate Intel compiler
 > module load <gnu, pgi, or intel compilers>
 
-Correct *makefile* for used compiler and compile the program
+Correct [*makefile*](src/makefile) for used compiler and compile the program
 
 > make
 
