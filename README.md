@@ -10,7 +10,7 @@ For more details see [DOI](DOI)
 
 # Compilation of the code
 
-Load appropriate Intel compiler
+Load appropriate Fortran compiler
 > module load <gnu, pgi, or intel compilers>
 
 Correct [*makefile*](src/makefile) for used compiler and compile the program
