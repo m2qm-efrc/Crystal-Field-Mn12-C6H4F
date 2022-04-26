@@ -1,5 +1,4 @@
 
-The explanation of the calculations is in the [E_field_crystal.pdf](https://github.com/Dmitry-Skachkov/Crystal-Field-Mn12-C6H4F/blob/main/src/E_field_crystal.pdf)
 
 # Compilation of the code
 
