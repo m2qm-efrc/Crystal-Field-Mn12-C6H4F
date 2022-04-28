@@ -1,6 +1,6 @@
 # Electric field in [Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F] SMM crystal
 
-Program [src/CrystalField.f90](src/) to calculate electric field in the Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F crystal with crystal parameters taken from [Inorg. Chem., 2017,  56, 10706](https://doi.org/10.1021/acs.inorgchem.7b01676). 
+Program [src/CrystalField.f90](src/) to calculate electric field in the Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F crystal with crystal parameters taken from [Inorg. Chem., 2017,  56, 10706](https://doi.org/10.1021/acs.inorgchem.7b01676)  [![arXiv](https://img.shields.io/badge/Inorg._Chem.-56,_10706_(2017)-red)](https://doi.org/10.1021/acs.inorgchem.7b01676). 
 
 ![GitHub Logo](https://github.com/Dmitry-Skachkov/Crystal-Field-Mn12-C6H4F/blob/main/E_field_2_log_31.jpg)
 
