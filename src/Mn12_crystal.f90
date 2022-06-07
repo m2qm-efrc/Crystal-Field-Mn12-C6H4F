@@ -1,4 +1,8 @@
 
+! Copyright (C) 2022   Center for Molecular Magnetic Quantum Materials (M2QM),
+!                      Quantum Theory Project (QTP),
+!                      Department of Physics, University of Florida, Gainesville, FL 32611, USA 
+!                      https://efrc.ufl.edu/
 
    Module Mn12_crystal
        integer, parameter   :: Nx = 101                  ! number of points in X
