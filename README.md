@@ -9,4 +9,4 @@ For more details see  [![arXiv](https://img.shields.io/badge/ChemRxiv-2022_m5fgw
 
 Explanation of calculations is in the [![arXiv](https://img.shields.io/badge/E_field_crystal-.pdf-red)](E_field_crystal.pdf)
 
-For contributing please contact [**Center for Molecular Magnetic Quantum Materials (M2QM)**](https://efrc.ufl.edu/) 
+
