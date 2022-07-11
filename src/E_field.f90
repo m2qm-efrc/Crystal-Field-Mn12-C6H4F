@@ -124,7 +124,7 @@
 
 
       subroutine calc_r                               ! calculate vector r from point charge to the point (x,y,z)
-       real(8)          :: r1(3),rx              
+       real(8)          :: r1(3)              
        r1(1:3) =  rxy(1:3) - rq(1:3) - L(1:3)
        rx = dlength(r1)                               ! length of vector r1
        v3(1:3) = r1(1:3)/rx                           ! unity vector
