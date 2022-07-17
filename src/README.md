@@ -13,4 +13,4 @@ Correct [*makefile*](makefile) for used compiler and compile the program
 
 > CrystalField
 
-The data for plotting will be saved into the file *Efield.dat*
+The data for plotting will be saved into the file [Efield.dat](data/EField.dat).
